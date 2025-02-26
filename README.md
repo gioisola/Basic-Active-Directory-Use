@@ -1,4 +1,4 @@
-<h1>Basic Active Directory Use</h1>
+<h1>Basic Active Directory Setup</h1>
 
 <h2>Description</h2>
 </b>
